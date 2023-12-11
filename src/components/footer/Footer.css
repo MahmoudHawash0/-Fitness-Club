@@ -1,0 +1,37 @@
+.footerContainer {
+    background: #191f2a;
+    display: flex;
+    padding: 1.5rem;
+    gap: 1rem;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.footer img {
+    width: 40px;
+    height: 40px;
+}
+
+h2 {
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+
+.creator {
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none;
+    color: #1460e5;
+}
